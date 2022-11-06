@@ -4,4 +4,8 @@
 The game is set in a medieval type of setting, inspired by the Souls-like genre. It's a 2D action-rpg with a melee combat. 
 
 Below is shown a picture of the starting scene:
-![Screenshot](starting scene.jpg)
+![alt text](https://github.com/Tatonta/CastleOfUncertainties/blob/d06c94390fcc54234c6661a7a9f4d3795e3d4fe3/starting%20scene.jpg)
+The game features 2 types of enemies: 
+
+- Standard Skeleton
+![alt text](https://github.com/Tatonta/CastleOfUncertainties/blob/d06c94390fcc54234c6661a7a9f4d3795e3d4fe3/starting%20scene.jpg)
