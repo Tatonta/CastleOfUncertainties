@@ -11,3 +11,4 @@ The game features 2 types of enemies:
 ![alt text](https://github.com/Tatonta/CastleOfUncertainties/blob/main/skeleton_enemy.png)
 
 - Boss (skeleton capable of dealing massive damage and block with a subroutine AI which chooses actions based on the distance with the player)
+![alt text](https://github.com/Tatonta/CastleOfUncertainties/blob/main/boss.png)
